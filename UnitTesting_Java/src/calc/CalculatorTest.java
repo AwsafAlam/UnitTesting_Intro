@@ -26,7 +26,7 @@ public class CalculatorTest { // Initialized with ctrl + Shift + T
 
     @Test
     public void test1() {
-        assertEquals(20,testObj.Add());
+        assertEquals(30,testObj.Add());
     }
 
     @Test
